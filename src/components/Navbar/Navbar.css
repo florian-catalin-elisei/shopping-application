@@ -1,0 +1,22 @@
+.Navbar {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Navbar-logo {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.Navbar-logo img {
+  border-radius: 50%;
+  margin-right: 10px;
+  width: 25px;
+}
+
+.Navbar-link {
+  color: black !important;
+  text-decoration: none !important;
+}

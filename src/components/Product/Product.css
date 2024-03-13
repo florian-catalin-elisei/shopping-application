@@ -1,0 +1,18 @@
+.Product {
+  margin: 0 20px;
+  width: 350px;
+}
+
+.Product-image {
+  height: 200px;
+  width: 100%;
+}
+
+.Product-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Product-icon {
+  margin-left: auto !important;
+}
